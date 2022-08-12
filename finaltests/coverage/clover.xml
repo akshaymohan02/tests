@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1647934526254" clover="3.2.0">
+  <project timestamp="1647934526254" name="All files">
+    <metrics statements="153" coveredstatements="149" conditionals="54" coveredconditionals="52" methods="23" coveredmethods="23" elements="230" coveredelements="224" complexity="0" loc="153" ncloc="153" packages="1" files="12" classes="12"/>
+    <file name="ArmstrongNumber.js" path="C:\Users\aksha\OneDrive\Desktop\finaltests\ArmstrongNumber.js">
+      <metrics statements="8" coveredstatements="8" conditionals="4" coveredconditionals="4" methods="2" coveredmethods="2"/>
+      <line num="11" count="1" type="stmt"/>
+      <line num="12" count="4" type="cond" truecount="4" falsecount="0"/>
+      <line num="14" count="2" type="stmt"/>
+      <line num="16" count="2" type="stmt"/>
+      <line num="17" count="2" type="stmt"/>
+      <line num="18" count="6" type="stmt"/>
+      <line num="21" count="2" type="stmt"/>
+      <line num="24" count="1" type="stmt"/>
+    </file>
+    <file name="AverageMedian.js" path="C:\Users\aksha\OneDrive\Desktop\finaltests\AverageMedian.js">
+      <metrics statements="12" coveredstatements="12" conditionals="2" coveredconditionals="2" methods="2" coveredmethods="2"/>
+      <line num="11" count="1" type="stmt"/>
+      <line num="12" count="3" type="stmt"/>
+      <line num="13" count="3" type="stmt"/>
+      <line num="14" count="3" type="stmt"/>
+      <line num="15" count="3" type="stmt"/>
+      <line num="17" count="3" type="cond" truecount="2" falsecount="0"/>
+      <line num="18" count="2" type="stmt"/>
+      <line num="20" count="1" type="stmt"/>
+      <line num="23" count="3" type="stmt"/>
+      <line num="26" count="1" type="stmt"/>
+      <line num="27" count="21" type="stmt"/>
+      <line num="30" count="1" type="stmt"/>
+    </file>
+    <file name="BeadSort.js" path="C:\Users\aksha\OneDrive\Desktop\finaltests\BeadSort.js">
+      <metrics statements="23" coveredstatements="23" conditionals="6" coveredconditionals="6" methods="5" coveredmethods="5"/>
+      <line num="13" count="11" type="cond" truecount="2" falsecount="0"/>
+      <line num="14" count="1" type="stmt"/>
+      <line num="17" count="2" type="stmt"/>
+      <line num="18" count="2" type="stmt"/>
+      <line num="21" count="2" type="stmt"/>
+      <line num="22" count="10" type="stmt"/>
+      <line num="24" count="10" type="stmt"/>
+      <line num="25" count="42" type="stmt"/>
+      <line num="28" count="10" type="stmt"/>
+      <line num="32" count="2" type="stmt"/>
+      <line num="33" count="15" type="stmt"/>
+      <line num="35" count="15" type="stmt"/>
+      <line num="36" count="75" type="cond" truecount="2" falsecount="0"/>
+      <line num="37" count="42" type="stmt"/>
+      <line num="41" count="15" type="stmt"/>
+      <line num="42" count="75" type="cond" truecount="2" falsecount="0"/>
+      <line num="43" count="42" type="stmt"/>
+      <line num="44" count="42" type="stmt"/>
+      <line num="46" count="33" type="stmt"/>
+      <line num="52" count="2" type="stmt"/>
+      <line num="53" count="75" type="stmt"/>
+      <line num="54" count="10" type="stmt"/>
+      <line num="58" count="1" type="stmt"/>
+    </file>
+    <file name="CycleSort.js" path="C:\Users\aksha\OneDrive\Desktop\finaltests\CycleSort.js">
+      <metrics statements="25" coveredstatements="23" conditionals="6" coveredconditionals="6" methods="1" coveredmethods="1"/>
+      <line num="18" count="2" type="stmt"/>
+      <line num="19" count="10" type="stmt"/>
+      <line num="20" count="10" type="stmt"/>
+      <line num="23" count="10" type="stmt"/>
+      <line num="24" count="20" type="cond" truecount="2" falsecount="0"/>
+      <line num="25" count="4" type="stmt"/>
+      <line num="29" count="10" type="cond" truecount="2" falsecount="0"/>
+      <line num="30" count="9" type="stmt"/>
+      <line num="32" count="1" type="stmt"/>
+      <line num="33" count="0" type="stmt"/>
+      <line num="36" count="1" type="stmt"/>
+      <line num="37" count="1" type="stmt"/>
+      <line num="38" count="1" type="stmt"/>
+      <line num="41" count="1" type="stmt"/>
+      <line num="42" count="3" type="stmt"/>
+      <line num="43" count="3" type="stmt"/>
+      <line num="44" count="12" type="cond" truecount="2" falsecount="0"/>
+      <line num="45" count="3" type="stmt"/>
+      <line num="48" count="3" type="stmt"/>
+      <line num="49" count="0" type="stmt"/>
+      <line num="51" count="3" type="stmt"/>
+      <line num="52" count="3" type="stmt"/>
+      <line num="53" count="3" type="stmt"/>
+      <line num="56" count="2" type="stmt"/>
+      <line num="59" count="1" type="stmt"/>
+    </file>
+    <file name="Factorial.js" path="C:\Users\aksha\OneDrive\Desktop\finaltests\Factorial.js">
+      <metrics statements="5" coveredstatements="5" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
+      <line num="11" count="1" type="stmt"/>
+      <line num="12" count="11418" type="cond" truecount="2" falsecount="0"/>
+      <line num="13" count="2" type="stmt"/>
+      <line num="15" count="11416" type="stmt"/>
+      <line num="18" count="1" type="stmt"/>
+    </file>
+    <file name="FormatPhoneNumber.js" path="C:\Users\aksha\OneDrive\Desktop\finaltests\FormatPhoneNumber.js">
+      <metrics statements="9" coveredstatements="9" conditionals="4" coveredconditionals="4" methods="2" coveredmethods="2"/>
+      <line num="4" count="1" type="stmt"/>
+      <line num="5" count="4" type="stmt"/>
+      <line num="6" count="4" type="cond" truecount="4" falsecount="0"/>
+      <line num="8" count="3" type="stmt"/>
+      <line num="10" count="1" type="stmt"/>
+      <line num="11" count="1" type="stmt"/>
+      <line num="12" count="10" type="stmt"/>
+      <line num="14" count="1" type="stmt"/>
+      <line num="17" count="1" type="stmt"/>
+    </file>
+    <file name="IsDivisible.js" path="C:\Users\aksha\OneDrive\Desktop\finaltests\IsDivisible.js">
+      <metrics statements="7" coveredstatements="6" conditionals="6" coveredconditionals="5" methods="1" coveredmethods="1"/>
+      <line num="3" count="1" type="stmt"/>
+      <line num="4" count="3" type="cond" truecount="3" falsecount="1"/>
+      <line num="5" count="0" type="stmt"/>
+      <line num="7" count="3" type="cond" truecount="2" falsecount="0"/>
+      <line num="8" count="1" type="stmt"/>
+      <line num="10" count="2" type="stmt"/>
+      <line num="17" count="1" type="stmt"/>
+    </file>
+    <file name="MergeSort.js" path="C:\Users\aksha\OneDrive\Desktop\finaltests\MergeSort.js">
+      <metrics statements="14" coveredstatements="14" conditionals="6" coveredconditionals="6" methods="2" coveredmethods="2"/>
+      <line num="19" count="14" type="stmt"/>
+      <line num="20" count="14" type="stmt"/>
+      <line num="21" count="14" type="stmt"/>
+      <line num="23" count="14" type="cond" truecount="2" falsecount="0"/>
+      <line num="24" count="24" type="cond" truecount="2" falsecount="0"/>
+      <line num="25" count="13" type="stmt"/>
+      <line num="27" count="11" type="stmt"/>
+      <line num="31" count="14" type="stmt"/>
+      <line num="41" count="32" type="cond" truecount="2" falsecount="0"/>
+      <line num="43" count="14" type="stmt"/>
+      <line num="44" count="14" type="stmt"/>
+      <line num="45" count="14" type="stmt"/>
+      <line num="47" count="14" type="stmt"/>
+      <line num="50" count="1" type="stmt"/>
+    </file>
+    <file name="PerfectNumber.js" path="C:\Users\aksha\OneDrive\Desktop\finaltests\PerfectNumber.js">
+      <metrics statements="7" coveredstatements="7" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="4"/>
+      <line num="18" count="1" type="stmt"/>
+      <line num="19" count="14" type="stmt"/>
+      <line num="22" count="1" type="stmt"/>
+      <line num="23" count="2" type="stmt"/>
+      <line num="24" count="6" type="stmt"/>
+      <line num="27" count="2" type="stmt"/>
+      <line num="30" count="1" type="stmt"/>
+    </file>
+    <file name="QuickSelectSearch.js" path="C:\Users\aksha\OneDrive\Desktop\finaltests\QuickSelectSearch.js">
+      <metrics statements="22" coveredstatements="22" conditionals="10" coveredconditionals="10" methods="1" coveredmethods="1"/>
+      <line num="15" count="4" type="cond" truecount="4" falsecount="0"/>
+      <line num="16" count="1" type="stmt"/>
+      <line num="19" count="3" type="stmt"/>
+      <line num="20" count="3" type="stmt"/>
+      <line num="21" count="3" type="stmt"/>
+      <line num="22" count="8" type="stmt"/>
+      <line num="23" count="8" type="stmt"/>
+      <line num="24" count="8" type="stmt"/>
+      <line num="26" count="8" type="stmt"/>
+      <line num="27" count="41" type="cond" truecount="2" falsecount="0"/>
+      <line num="28" count="19" type="stmt"/>
+      <line num="29" count="19" type="stmt"/>
+      <line num="30" count="19" type="stmt"/>
+      <line num="31" count="19" type="stmt"/>
+      <line num="33" count="22" type="stmt"/>
+      <line num="37" count="8" type="cond" truecount="2" falsecount="0"/>
+      <line num="38" count="4" type="stmt"/>
+      <line num="41" count="8" type="cond" truecount="2" falsecount="0"/>
+      <line num="42" count="5" type="stmt"/>
+      <line num="44" count="3" type="stmt"/>
+      <line num="47" count="3" type="stmt"/>
+      <line num="50" count="1" type="stmt"/>
+    </file>
+    <file name="RomanToDecimal.js" path="C:\Users\aksha\OneDrive\Desktop\finaltests\RomanToDecimal.js">
+      <metrics statements="15" coveredstatements="15" conditionals="6" coveredconditionals="6" methods="1" coveredmethods="1"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="12" count="4" type="stmt"/>
+      <line num="14" count="4" type="stmt"/>
+      <line num="16" count="4" type="stmt"/>
+      <line num="17" count="4" type="stmt"/>
+      <line num="18" count="19" type="stmt"/>
+      <line num="20" count="19" type="cond" truecount="2" falsecount="0"/>
+      <line num="21" count="15" type="cond" truecount="2" falsecount="0"/>
+      <line num="24" count="19" type="stmt"/>
+      <line num="25" count="19" type="cond" truecount="2" falsecount="0"/>
+      <line num="26" count="17" type="stmt"/>
+      <line num="28" count="2" type="stmt"/>
+      <line num="31" count="19" type="stmt"/>
+      <line num="33" count="4" type="stmt"/>
+      <line num="36" count="1" type="stmt"/>
+    </file>
+    <file name="checkCamelCase.js" path="C:\Users\aksha\OneDrive\Desktop\finaltests\checkCamelCase.js">
+      <metrics statements="6" coveredstatements="5" conditionals="2" coveredconditionals="1" methods="1" coveredmethods="1"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="3" count="5" type="cond" truecount="1" falsecount="1"/>
+      <line num="4" count="0" type="stmt"/>
+      <line num="7" count="5" type="stmt"/>
+      <line num="8" count="5" type="stmt"/>
+      <line num="11" count="1" type="stmt"/>
+    </file>
+  </project>
+</coverage>

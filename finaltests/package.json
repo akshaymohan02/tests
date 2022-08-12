@@ -1,0 +1,17 @@
+{
+  "name": "finaltests",
+  "version": "1.0.0",
+  "description": "",
+  "main": "checkCamelCase.js",
+  "scripts": {
+    "test": "jest --coverage --verbose",
+    "watch": "jest --coverage --watchAll *.js"
+   
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^27.5.1"
+  }
+}
